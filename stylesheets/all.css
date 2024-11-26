@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url(./img/backPicBlue.png);
+    background-image: url(/img/backPicBlue.png);
 }
 
 #headerName{
@@ -49,7 +49,7 @@ body{
 
 .spotlightThePage {
     /* background-color: rgb(236, 81, 154); */
-    background-image: url(./img/backPic.png);
+    background-image: url(/img/backPic.png);
     width: 200px;
     height: 65px;
     border: 2px solid pink;
@@ -70,7 +70,7 @@ body{
     display: flex;
     flex-direction: column;
     border-radius: 20px;
-    background-image: url(./img/backPic.png);
+    background-image: url(/img/backPic.png);
     justify-self: center;
     border-radius: 20px;
     border: 2px solid pink;
